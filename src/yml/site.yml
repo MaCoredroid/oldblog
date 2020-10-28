@@ -11,11 +11,5 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: zhiyuanma0401@gmail.com
 disqus_username: 

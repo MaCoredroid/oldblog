@@ -12,31 +12,19 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: zhiyuanma0401@gmail.com
 disqus_username: 
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
@@ -54,9 +42,9 @@ highlighter: rouge
 permalink: /:title/
 collections:
   authors:
-    output: true
+    output: false
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -100,4 +88,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: 
