@@ -1,7 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: MC
+title: MC | The elusive chanteuse
+description: I don't know daaaahling, what do you think?
 tags:
   - blog
   - template
@@ -18,5 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: zhiyuanma0401@gmail.com
+disqus_username: 
