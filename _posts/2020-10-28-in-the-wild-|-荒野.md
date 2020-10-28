@@ -5,7 +5,7 @@ title: "In the wild | 荒野"
 subtitle:
 description:
 image: >-
-  https://ibb.co/HBGBcBX.jpeg
+  https://i.imgur.com/bxmvWc1.jpg
 optimized_image:
 category:
 tags:
