@@ -5,7 +5,7 @@ title: "Vision of love"
 subtitle: Giving me life and its everything
 description:
 image: >-
-  https://i.ibb.co/1mMR16S/unsplash-Andre-Benz.jpg
+  ../img/1.jpg
 optimized_image:
 category:
 tags:
