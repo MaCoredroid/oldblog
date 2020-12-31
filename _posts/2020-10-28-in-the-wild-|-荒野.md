@@ -1,11 +1,11 @@
 ---
 date: 2020-10-28 12:42:54
 layout: post
-title: In the wild | 荒野
-subtitle: 彼岸 没有灯塔
+title: In the wild 
+subtitle: Flowers on the other shore
 description:
 image: >-
-  https://i.ibb.co/6Ysydyt/IMG-2841.jpg
+  ../img/2.jpg
 optimized_image:
 category:
 tags:
