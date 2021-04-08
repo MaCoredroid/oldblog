@@ -2,10 +2,9 @@
 date: 2020-12-31 13:35:58
 layout: post
 title: "开往春天的地铁"
-subtitle: Giving me life and its everything
+subtitle: 
 description:
-image: >-
-  ../img/1.jpg
+image: 
 optimized_image:
 category:
 tags:
