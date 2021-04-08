@@ -4,8 +4,7 @@ layout: post
 title: In the wild 
 subtitle: Flowers on the other shore
 description:
-image: >-
-  ../img/2.jpg
+image: 
 optimized_image:
 category:
 tags:
